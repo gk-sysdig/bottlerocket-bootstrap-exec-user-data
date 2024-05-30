@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "repositoryArn": "arn:aws:ecr-public::825084657703:repository/gk-sysdig/bottlerocket-bootstrap-exec-user-data",
+            "registryId": "825084657703",
+            "repositoryName": "gk-sysdig/bottlerocket-bootstrap-exec-user-data",
+            "repositoryUri": "public.ecr.aws/v7a2o2e0/gk-sysdig/bottlerocket-bootstrap-exec-user-data",
+            "createdAt": "2024-05-28T15:25:58.981000+01:00"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+docker buildx imagetools create -t public.ecr.aws/v7a2o2e0/gk-sysdig/bottlerocket-bootstrap-exec-user-data:latest public.ecr.aws/v7a2o2e0/gk-sysdig/bottlerocket-bootstrap-exec-user-data:v0.2.0

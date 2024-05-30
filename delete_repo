@@ -1,0 +1,4 @@
+aws ecr-public delete-repository \
+      --repository-name gk-sysdig \
+      --force \
+      --region us-east-1

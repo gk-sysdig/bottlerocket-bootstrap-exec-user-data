@@ -1,0 +1,4 @@
+aws ecr-public create-repository \
+     --repository-name gk-sysdig/bottlerocket-bootstrap-exec-user-data \
+     --catalog-data file://repositorycatalogdata.json \
+     --region us-east-1

@@ -1,0 +1,1 @@
+docker buildx build --pull --push --progress plain --platform linux/arm64,linux/amd64 -t public.ecr.aws/v7a2o2e0/gk-sysdig/bottlerocket-bootstrap-exec-user-data:v0.2.0 .
